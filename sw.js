@@ -1,7 +1,7 @@
 // Portfolio v16 — Service Worker
 // Cache-first strategy: serves from cache, updates in background
 
-const CACHE_NAME = 'portfolio-v17-v2';
+const CACHE_NAME = 'portfolio-v17-v2.5';
 const ASSETS = [
     './',
     './index.html',
