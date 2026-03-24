@@ -1,4 +1,4 @@
-const CACHE_NAME = 'portfolio-v17-v6.6';
+const CACHE_NAME = 'ledger V1';
 const ASSETS = [
   './',
   './index.html',
