@@ -1,6 +1,6 @@
 {
   "name": "Sommerville Finances",
-  "short_name": "Portfolio",
+  "short_name": "Ledger",
   "description": "Personal finance and FIRE planning app",
   "start_url": "./",
   "display": "standalone",
