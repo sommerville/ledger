@@ -3,7 +3,7 @@
   "short_name": "Ledger",
   "description": "Personal finance and FIRE planning app",
   "start_url": "./",
-  "display": "fullscreen",
+  "display": "standalone",
   "background_color": "#1a3a5c",
   "theme_color": "#1a3a5c",
   "orientation": "portrait-primary",
