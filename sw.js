@@ -1,4 +1,4 @@
-const CACHE_NAME = 'Ledger v14.4 6';
+const CACHE_NAME = 'Ledger v14.4 7';
 const ASSETS = [
   './',
   './index.html',
